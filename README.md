@@ -10,7 +10,7 @@ This collection showcases three unique web projects — from a responsive login 
 
 🔗 **GitHub Repository:** [AliAhmadkhani/Projekt](https://github.com/AliAhmadkhani/Projekt)  
 
-🎥 **YouTube Channel:** [Silence Room](https://www.youtube.com/@silenceroomchannel)
+🎥 **YouTube Channel:** [Silence Room](https://youtube.com/@silenceroom?si=MWUfozb83FrTAWFg)
 
 ---
 
